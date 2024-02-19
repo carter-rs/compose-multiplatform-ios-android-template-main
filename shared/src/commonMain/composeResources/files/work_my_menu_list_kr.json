@@ -1,0 +1,77 @@
+[
+  {
+    "type": "MyWork",
+    "name": "빌딩유형",
+    "taskClassificationList": [
+      {
+        "code": "J01",
+        "name": "기존"
+      },
+      {
+        "code": "J02",
+        "name": "재확인"
+      },
+      {
+        "code": "J03",
+        "name": "신증축"
+      },
+      {
+        "code": "J04",
+        "name": "스태킹플랜"
+      }
+    ]
+  },
+  {
+    "type": "MyWorkContact",
+    "name": "연락처",
+    "taskClassificationList": [
+      {
+        "code": "K01",
+        "name": "연락처업데이트"
+      },
+      {
+        "code": "K05",
+        "name": "타팀업무요청"
+      },
+      {
+        "code": "K02",
+        "name": "유관부서요청"
+      },
+      {
+        "code": "K04",
+        "name": "등기이전"
+      },
+      {
+        "code": "K03",
+        "name": "신완공"
+      },
+      {
+        "code": "K06",
+        "name": "리테일"
+      }
+    ]
+  },
+  {
+    "type": "MyWorkPicture",
+    "name": "촬영",
+    "taskClassificationList": [
+      {
+        "code": "M01",
+        "name": "기존"
+      },
+      {
+        "code": "M05",
+        "name": "신규"
+      },
+      {
+        "code": "M02",
+        "name": "유관부서요청"
+      }
+    ]
+  },
+  {
+    "type": "MyWorkLogisticsWarehouse",
+    "name": "창고",
+    "taskClassificationList": null
+  }
+]

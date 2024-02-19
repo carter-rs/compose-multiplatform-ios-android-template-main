@@ -1,0 +1,27 @@
+[
+  {
+    "type": "4",
+    "name": "창고 ID",
+    "placeholder" : "12345678"
+  },
+  {
+    "type": "1",
+    "name": "구 주소",
+    "placeholder" : "동+번지"
+  },
+  {
+    "type": "2",
+    "name": "신 주소",
+    "placeholder" : "도로명"
+  },
+  {
+    "type": "3",
+    "name": "창고명",
+    "placeholder" : "아남타워"
+  },
+  {
+    "type": "6",
+    "name": "연락처",
+    "placeholder" : "입력해주세요"
+  }
+]

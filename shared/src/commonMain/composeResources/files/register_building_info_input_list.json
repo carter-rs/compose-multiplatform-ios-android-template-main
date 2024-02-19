@@ -1,0 +1,16 @@
+[
+  {
+    "title": "<b><font color=\"#232B38\">빌딩 유형</font></b><font color=\"#A4A9B2\">(중복 선택 가능)</font><b><font color=\"#D90821\">*</font>",
+    "placeHolder": "",
+    "require": true,
+    "enable": true,
+    "type": "BUILDING_TYPE"
+  },
+  {
+    "title": "빌딩 세부 유형",
+    "placeHolder": "선택",
+    "require": false,
+    "enable": true,
+    "type": "BUILDING_DETAIL_TYPE"
+  }
+]

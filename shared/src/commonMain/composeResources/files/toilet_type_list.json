@@ -1,0 +1,26 @@
+[
+  {
+    "type": "INSIDE_SEPARATE",
+    "name": "내부 남녀분리"
+  },
+  {
+    "type": "INSIDE_PUBLIC",
+    "name": "내부 남녀공용"
+  },
+  {
+    "type": "OUTSIDE_EACH_SEPARATE",
+    "name": "외부 각층 남녀분리"
+  },
+  {
+    "type": "OUTSIDE_EACH_PUBLIC",
+    "name": "외부 각층 남녀공용"
+  },
+  {
+    "type": "OUTSIDE_INTER_SEPARATE",
+    "name": "외부층간 남녀분리"
+  },
+  {
+    "type": "OUTSIDE_INTER_PUBLIC",
+    "name": "외부층간 남녀공용"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "name": "정보수집 업무",
+    "items": [
+      {
+        "type": "CollectBuildingType",
+        "name": "빌딩유형 수집"
+      },
+      {
+        "type": "CollectContact",
+        "name": "연락처 수집"
+      },
+      {
+        "type": "CollectPicture",
+        "name": "사진촬영"
+      },
+      {
+        "type": "CollectLogisticsWarehouse",
+        "name": "창고정보수집"
+      }
+    ]
+  },
+  {
+    "name": "정보수집 현황",
+    "items": [
+      {
+        "type": "MyWork",
+        "name": "빌딩유형수집"
+      },
+      {
+        "type": "MyWorkContact",
+        "name": "연락처수집"
+      },
+      {
+        "type": "MyWorkPicture",
+        "name": "사진촬영"
+      },
+      {
+        "type": "MyWorkLogisticsWarehouse",
+        "name": "창고정보수집"
+      }
+    ]
+  },
+  {
+    "name": "빌딩",
+    "items": [
+      {
+        "type": "SearchBuilding",
+        "name": "빌딩 목록"
+      },
+      {
+        "type": "BuildingCreate",
+        "name": "빌딩 등록"
+      }
+    ]
+  },
+  {
+    "name": "물류창고",
+    "items": [
+      {
+        "type": "SearchLogisticsWarehouse",
+        "name": "물류창고 목록"
+      },
+      {
+        "type": "LogisticsWarehouseCreate",
+        "name": "물류창고 등록"
+      }
+    ]
+  },
+  {
+    "name": "인테리어 세일즈",
+    "items": [
+      {
+        "type": "Interior",
+        "name": "프로젝트"
+      }
+    ]
+  }
+]

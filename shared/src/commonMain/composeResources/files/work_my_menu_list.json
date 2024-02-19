@@ -1,0 +1,42 @@
+[
+  {
+    "type": "MyWork",
+    "name": "빌딩유형",
+    "taskClassificationList": [
+      {
+        "code": "J01",
+        "name": "기존"
+      },
+      {
+        "code": "J02",
+        "name": "재확인"
+      },
+      {
+        "code": "J03",
+        "name": "신증축"
+      }
+    ]
+  },
+  {
+    "type": "MyWorkContact",
+    "name": "연락처",
+    "taskClassificationList": [
+      {
+        "code": "K01",
+        "name": "기존"
+      },
+      {
+        "code": "K02",
+        "name": "요청"
+      },
+      {
+        "code": "K04",
+        "name": "등기이전"
+      },
+      {
+        "code": "K03",
+        "name": "신증축"
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "type": "CollectBuildingType",
+    "name": "빌딩유형 수집"
+  },
+  {
+    "type": "CollectContact",
+    "name": "연락처 수집"
+  },
+  {
+    "type": "CollectPicture",
+    "name": "사진촬영 수집"
+  },
+  {
+    "type": "CollectLogisticsWarehouse",
+    "name": "창고정보 수집"
+  },
+  {
+    "type": "MyWork",
+    "name": "빌딩유형 현황"
+  },
+  {
+    "type": "MyWorkContact",
+    "name": "연락처 현황"
+  },
+  {
+    "type": "MyWorkPicture",
+    "name": "사진촬영 현황"
+  },
+  {
+    "type": "MyWorkLogisticsWarehouse",
+    "name": "창고정보 현황"
+  },
+  {
+    "type": "SearchLogisticsWarehouse",
+    "name": "창고목록"
+  },
+  {
+    "type": "SearchBuilding",
+    "name": "빌딩목록"
+  },
+  {
+    "type": "BuildingCreate",
+    "name": "빌딩등록"
+  },
+  {
+    "type": "LogisticsWarehouseCreate",
+    "name": "창고등록"
+  },
+  {
+    "type": "Interior",
+    "name": "프로젝트"
+  }
+]

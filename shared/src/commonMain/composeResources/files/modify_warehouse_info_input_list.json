@@ -1,0 +1,205 @@
+[
+  {
+    "title": "창고명",
+    "placeHolder": "창고명 입력",
+    "require": true,
+    "enable": true,
+    "type": "WAREHOUSE_NAME"
+  },
+  {
+    "title": "창고 유형",
+    "placeHolder": "",
+    "require": true,
+    "enable": true,
+    "type": "WAREHOUSE_TYPE"
+  },
+  {
+    "title": "창고 세부 유형",
+    "placeHolder": "선택",
+    "require": false,
+    "enable": true,
+    "type": "WAREHOUSE_DETAIL_TYPE"
+  },
+  {
+    "title": "저온창고 유형",
+    "placeHolder": "선택",
+    "require": true,
+    "enable": true,
+    "type": "LOW_TEMPERATURE_TYPE"
+  },
+  {
+    "title": "위험품보관창고 유형",
+    "placeHolder": "선택",
+    "require": true,
+    "enable": true,
+    "type": "HAZARD_STORAGE_TYPE"
+  },
+  {
+    "title": "보관가능품목",
+    "placeHolder": "선택",
+    "require": false,
+    "enable": true,
+    "type": "STORAGE_ABLE_ITEM"
+  },
+  {
+    "title": "임대 유형",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "RENTAL_TYPE"
+  },
+  {
+    "title": "분양유형",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "TYPE_OF_SALE"
+  },
+  {
+    "title": "건설 상태",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "CONSTRUCTION_STATUS"
+  },
+  {
+    "title": "대지면적(㎡)",
+    "placeHolder": "0",
+    "require": false,
+    "enable": true,
+    "type": "LAND_AREA"
+  },
+  {
+    "title": "연면적(㎡)",
+    "placeHolder": "0",
+    "require": false,
+    "enable": true,
+    "type": "GROSS_FLOOR_AREA"
+  },
+  {
+    "title": "층정보",
+    "placeHolder": "0",
+    "require": false,
+    "enable": true,
+    "type": "FLOOR_INFO"
+  },
+  {
+    "title": "기준층 층고 (m)",
+    "placeHolder": "0",
+    "require": false,
+    "enable": true,
+    "type": "STANDARD_FLOOR_HEIGHT"
+  },
+  {
+    "title": "사용승인일",
+    "placeHolder": "YYYY.MM.DD",
+    "require": false,
+    "enable": true,
+    "type": "DATE_OF_APPROVAL_FOR_USE"
+  },
+  {
+    "title": "입주사명",
+    "placeHolder": "입주사명 입력",
+    "require": false,
+    "enable": true,
+    "type": "NAME_OF_TENANT"
+  },
+  {
+    "title": "리모델링 여부",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "REMODELING_STATUS"
+  },
+  {
+    "title": "차량접안",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "VEHICLE_BERTH"
+  },
+  {
+    "title": "램프",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "RAMP"
+  },
+  {
+    "title": "도크",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "DOCK"
+  },
+  {
+    "title": "도크 개수",
+    "placeHolder": "0",
+    "require": false,
+    "enable": true,
+    "type": "DOCK_NUM"
+  },
+  {
+    "title": "화물 엘리베이터 유무",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "CARGO_ELEVATOR_PRESENCE"
+  },
+  {
+    "title": "화물 엘리베이터 정보",
+    "placeHolder": "0",
+    "require": false,
+    "enable": true,
+    "type": "CARGO_ELEVATOR_INFO"
+  },
+  {
+    "title": "편의시설",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "AMENITIES"
+  },
+  {
+    "title": "창고 동관 수",
+    "placeHolder": "0",
+    "require": false,
+    "enable": true,
+    "type": "NUMBER_OF_WAREHOUSE_DONG"
+  },
+  {
+    "title": "인근 IC",
+    "placeHolder": "선택",
+    "require": false,
+    "enable": true,
+    "type": "NEARBY_IC"
+  },
+  {
+    "title": "사용형태",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "FORM_OF_USE"
+  },
+  {
+    "title": "랙",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "RACK"
+  },
+  {
+    "title": "랙 종류",
+    "placeHolder": "랙 종류 입력",
+    "require": false,
+    "enable": true,
+    "type": "RACK_TYPE"
+  },
+  {
+    "title": "캐노피",
+    "placeHolder": "미지정",
+    "require": false,
+    "enable": true,
+    "type": "CANOPY"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "<b><font color=\"#232B38\">창고 유형</font></b><b><font color=\"#D90821\">*</font></b>",
+    "placeHolder": "",
+    "require": true,
+    "enable": true,
+    "type": "WAREHOUSE_TYPE"
+  },
+  {
+    "title": "창고 세부 유형",
+    "placeHolder": "선택",
+    "require": false,
+    "enable": true,
+    "type": "WAREHOUSE_DETAIL_TYPE"
+  },
+  {
+    "title": "저온창고 유형",
+    "placeHolder": "선택",
+    "require": true,
+    "enable": true,
+    "type": "LOW_TEMPERATURE_TYPE"
+  },
+  {
+    "title": "위험품보관창고 유형",
+    "placeHolder": "선택",
+    "require": true,
+    "enable": true,
+    "type": "HAZARD_STORAGE_TYPE"
+  }
+]

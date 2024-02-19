@@ -1,0 +1,59 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="36dp"
+    android:height="33dp"
+    android:viewportWidth="36"
+    android:viewportHeight="33">
+  <path
+      android:pathData="M23,8H35"
+      android:strokeWidth="1.4"
+      android:fillColor="#00000000"
+      android:strokeColor="#F63663"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M23,24H35"
+      android:strokeWidth="1.4"
+      android:fillColor="#00000000"
+      android:strokeColor="#FFCCD5"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M23,13H35"
+      android:strokeWidth="1.4"
+      android:fillColor="#00000000"
+      android:strokeColor="#F63663"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M23,29H35"
+      android:strokeWidth="1.4"
+      android:fillColor="#00000000"
+      android:strokeColor="#FFCCD5"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M10,3L14,3A6,6 0,0 1,20 9L20,13A6,6 0,0 1,14 19L10,19A6,6 0,0 1,4 13L4,9A6,6 0,0 1,10 3z"
+      android:strokeAlpha="0.9"
+      android:fillAlpha="0.9">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:startX="12"
+          android:startY="3"
+          android:endX="12"
+          android:endY="19"
+          android:type="linear">
+        <item android:offset="0" android:color="#FFFF5876"/>
+        <item android:offset="1" android:color="#FFF2174C"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="M9,11.5L11,13.5L15.5,9"
+      android:strokeLineJoin="round"
+      android:strokeWidth="1.4"
+      android:fillColor="#00000000"
+      android:strokeColor="#ffffff"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M10,22L14,22A3,3 0,0 1,17 25L17,29A3,3 0,0 1,14 32L10,32A3,3 0,0 1,7 29L7,25A3,3 0,0 1,10 22z"
+      android:strokeAlpha="0.9"
+      android:fillColor="#FF90A5"
+      android:fillAlpha="0.9"/>
+</vector>
