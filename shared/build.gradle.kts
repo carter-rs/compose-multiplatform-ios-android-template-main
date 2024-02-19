@@ -27,7 +27,6 @@ kotlin {
         framework {
             isStatic = true
         }
-        extraSpecAttributes["resources"] = "['src/commonMain/composeResources/**', 'src/iosMain/resources/**']"
     }
 
     sourceSets {
